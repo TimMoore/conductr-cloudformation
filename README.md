@@ -1,5 +1,7 @@
 # ConductR Cloudformation
 
+*Note that this project is EOL as of 2018-01-31.*
+
 This CloudFormation template builds a three node [Lightbend ConductR](https://conductr.lightbend.com) AWS [CloudFormation](https://aws.amazon.com/cloudformation/). ConductR is the project name for Service Orchestration in Lightbend Production Suite.
 
 ## Using the template
